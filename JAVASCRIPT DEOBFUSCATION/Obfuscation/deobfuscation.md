@@ -30,7 +30,6 @@ https://matthewfl.com/unPacker.html
 ```
 Podemos ver que essa ferramenta faz um trabalho muito melhor ao deobfuscar o código JavaScript e nos dá um resultado que podemos entender:
 
-javascript
 ```
 function generateSerial() {
   ...SNIP...
