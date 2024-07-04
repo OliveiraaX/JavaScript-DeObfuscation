@@ -32,8 +32,8 @@ Exemplo:
 </body>
 </html>
 ````
-CSS
-CSS define o estilo da página. Ele pode ser:
+
+### CSS define o estilo da página. Ele pode ser:
 
 - Interno: Dentro do próprio arquivo HTML, entre as tags `<style>`.
 - Externo: Em um arquivo separado, referenciado no HTML.
