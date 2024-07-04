@@ -3,9 +3,8 @@
 ## Base64
 ```
 echo -n "https://www.exemplo.eu/" | base64
-Resultado: aHR0cHM6Ly93d3cuZXhlbXBsby5ldS8=
-
 ```
+Resultado: aHR0cHM6Ly93d3cuZXhlbXBsby5ldS8=
 
 ## Decodificação:
 ```
