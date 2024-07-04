@@ -31,8 +31,6 @@ eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){w
 ```
 ## Testando o Código Ofuscado
 Copie o código ofuscado para *JSConsole* para verificar se ainda executa a mesma função. Você verá a mesma saída:
-
-mathematica
 ```
 JavaScript Deobfuscation Module
 Tipos de Ofuscação
