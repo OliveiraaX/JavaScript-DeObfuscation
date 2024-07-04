@@ -18,14 +18,14 @@ Vemos que o arquivo secret.js contém apenas uma função, generateSerial.
 Vamos examinar cada linha da função generateSerial.
 
 ## Variáveis de Código
-A função começa definindo uma variável *xhr*, que cria um objeto *XMLHttpRequest*. Como talvez não saibamos exatamente o que *XMLHttpRequest* faz em JavaScript, vamos pesquisar sobre *XMLHttpRequest* para entender seu uso.
+A função começa definindo uma variável <b>xhr</b>, que cria um objeto <b>XMLHttpRequest</b>*. Como talvez não saibamos exatamente o que *XMLHttpRequest* faz em JavaScript, vamos pesquisar sobre <b>XMLHttpRequest</b> para entender seu uso.
 
 Após a leitura, vemos que é uma função JavaScript que lida com requisições web.
 
-A segunda variável definida é a variável url, que contém um URL para */serial.php*, que deve estar no mesmo domínio, já que nenhum domínio foi especificado.
+A segunda variável definida é a variável url, que contém um URL para <b>/serial.php</b>, que deve estar no mesmo domínio, já que nenhum domínio foi especificado.
 
 ## Funções de Código
-Em seguida, vemos que *xhr.open* é usado com "POST" e *url*. Podemos pesquisar novamente esta função e vemos que ela abre a requisição HTTP definida como "POST" para o URL, e então a próxima linha *xhr.send* enviará a requisição.
+Em seguida, vemos que <b>xhr.open</b> é usado com "POST" e <b>url</b>. Podemos pesquisar novamente esta função e vemos que ela abre a requisição HTTP definida como "POST" para o URL, e então a próxima linha <b>xhr.send</b> enviará a requisição.
 
 Portanto, tudo que *generateSerial* está fazendo é simplesmente enviar uma requisição POST para */serial.php*, sem incluir nenhum dado POST ou recuperar qualquer coisa em retorno.
 
