@@ -62,7 +62,7 @@ JavaScript adiciona funcionalidades interativas ao site. Ele também pode ser:
 - Interno: Dentro do próprio arquivo HTML, entre as tags `<script>`.
 - Externo: Em um arquivo separado, referenciado no HTML.
 
-Exemplo de JavaScript interno:
+### Exemplo de JavaScript interno:
 
 ````
 <script>
@@ -70,13 +70,13 @@ Exemplo de JavaScript interno:
 </script>
 ````
 
-Exemplo de JavaScript externo:
+### Exemplo de JavaScript externo:
 
 ```
 <script src="script.js"></script>
 ```
 
-Exemplo Prático
+### Exemplo Prático
 Vamos supor que você visite um site que não parece ter muita funcionalidade visível e quer entender o que está acontecendo no código.
 
 Abrir o site: Suponha que o URL é http://SERVER_IP:PORT.
@@ -114,9 +114,3 @@ eval(function (p, a, c, k, e, d) { e = function (c) { ... });
 
 A ofuscação é usada para dificultar a compreensão e a cópia do código por outras pessoas. É como um código secreto para os desenvolvedores.
 
-## Resumo
-HTML: Define a estrutura do site.
-CSS: Define o estilo do site.
-JavaScript: Adiciona interatividade ao site.
-Para ver o código-fonte, use CTRL + U no navegador.
-A ofuscação de código é uma técnica para esconder a lógica do JavaScript.
