@@ -79,8 +79,8 @@ JavaScript adiciona funcionalidades interativas ao site. Ele também pode ser:
 ### Exemplo Prático
 Vamos supor que você visite um site que não parece ter muita funcionalidade visível e quer entender o que está acontecendo no código.
 
-Abrir o site: Suponha que o URL é http://SERVER_IP:PORT.
-Ver o código-fonte HTML: Pressione CTRL + U.
+Abrir o site: Suponha que o URL é http://SERVER_IP:PORT.<br>
+Ver o código-fonte HTML: Pressione *CTRL + U*.<br>
 Você verá algo como:
 
 ```
